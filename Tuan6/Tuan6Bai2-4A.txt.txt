@@ -1,0 +1,3 @@
+A_B2: thiếu điều kiện dừng, vòng lặp vô hạn
+A_B3: vòng lặp vô tận vì N không thay đổi giá trị
+A_B4: đệ quy nhiều lần làm tràn bộ nhớ
